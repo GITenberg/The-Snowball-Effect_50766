@@ -1,4 +1,8 @@
 _repo: The-Snowball-Effect_50766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50766-h/images/cover.jpg
 creator:
   author:
     agent_name: MacLean, Katherine
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34332
     wikipedia: http://en.wikipedia.org/wiki/Katherine_MacLean
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50766#The-Snowball-Effect
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-12-25'
 gutenberg_type: Text
